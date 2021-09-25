@@ -1,0 +1,16 @@
+Variables
+Su funcion es almacenar el contenido de algo para usarlo luego.
+
+Strings
+Es cualquier tipo de palabra o conjunto de letras las cuales estan delimitadas por comillas
+
+Funciones (argumentos, return)
+Las funciones son un grupo de codigos los cuales se almacenan para su futura ejecucion. 
+.Los argumentos serian los valores que quisiera cambiar en el futuro.
+.El return es lo que se utiliza cuando queremos devolver algo de una funcion 
+
+Declaraciones if
+El if nos permite darle logica a ciertas preguntas que podemos hacer mediente esta condicion.
+
+Valores booleanos (true, false)
+Seria un interrogante en el cual se admiten dos respuestas en el cual true seria (verdadero) y false (falso).
