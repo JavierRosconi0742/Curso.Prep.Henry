@@ -1,0 +1,9 @@
+* `for`
+El for es un bucle el cual sirve para hacer tareas repetitivas. Su funcion es reescribir las lineas de codigos determinadas mediante un inicio y un final.
+
+
+* `&&`, `||`, `!`
+Estos signos pertenecen a la logica booleana son denominados operadores logicos
+&&: signica Y o AND
+||: Significa O o OR
+!: Se utiliza para realealizar una negacion. Este mismo va ubicado al principio.
