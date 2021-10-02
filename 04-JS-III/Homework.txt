@@ -1,0 +1,5 @@
+- Arrays: Array o arreglo es una lista de elementos, pueden aceptar todo tipo de datos e inclusive pueden tener un elemento que sea un arreglo.
+Los arrays se ven representados por []
+A los arrays se accenden invocando por ejemplo: Array[2]
+Si realizamos una lista de arrays esta siempre empezara contando a la hora de invocarlo desde el 0 en adelante. 
+Para saber cuantos elementos hay en un array se utiliza el .length al final del nombre del array.
